@@ -5,13 +5,4 @@ public class LogIn {
 	
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
